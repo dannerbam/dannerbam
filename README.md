@@ -6,7 +6,7 @@
 
 ### FORUM
 
-http://dannerbam.eu/forum/
+<a href="http://dannerbam.eu/forum/" target="_blank">
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Languages and Tools:</h3>
