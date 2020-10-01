@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, ich bin Hanner72</h1>
+<h1 align="center">Hi 👋, ich heiße Johann und bin dannerbam</h1>
 
 <h3 align="center">Ein leidenschaftlicher Frontend Entwickler aus Österreich</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanner72" alt="hanner72" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannerbam" alt="dannerbam" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanner72&layout=compact" alt="hanner72" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannerbam&layout=compact" alt="dannerbam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanner72&show_icons=true" alt="hanner72" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannerbam&show_icons=true" alt="dannerbam" /></p>
 
 ### Languages
 
@@ -44,10 +44,9 @@
 ### Hi there 👋
 
 [![](https://img.shields.io/badge/JSFiddle-dannerbam-0084FF?style=flat-square&logo=JSFiddle&logoColor=0084FF&labelColor=black)](https://jsfiddle.net/user/dannerbam)
-[![](https://img.shields.io/badge/GitHub-Hanner72-999999?style=flat-square&logo=GitHub&logoColor=ffffff&labelColor=181717)](https://github.com/Hanner72)
-[![](https://img.shields.io/badge/Gmail-johann.danner%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:johann.danner@gmail.com)
+[![](https://img.shields.io/badge/GitHub-Hanner72-999999?style=flat-square&logo=GitHub&logoColor=ffffff&labelColor=181717)](https://github.com/dannerbam)
+[![](https://img.shields.io/badge/Gmail-dannerbam%40dannerbam.at-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:dannerbam@dannerbam.at)
 [![](https://img.shields.io/badge/Telegram-%40hanner72-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/hanner72)
-[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/ayushkumar_25)
 
 https://shields.io/
 https://rahuldkjain.github.io/gh-profile-readme-generator/
