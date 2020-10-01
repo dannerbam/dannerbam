@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannerbam" alt="dannerbam" /> </p>
 
+### FORUM
+
+http://dannerbam.eu/forum/
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Languages and Tools:</h3>
