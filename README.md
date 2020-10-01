@@ -1,4 +1,4 @@
-<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Wink&eyebrowType=UpDown&mouthType=Tongue&skinColor=Light' width='100px'/><h1 align="center">Hi 👋, ich bin Hanner72</h1>
+<h1 align="center">Hi 👋, ich bin Hanner72</h1>
 
 <h3 align="center">Ein leidenschaftlicher Frontend Entwickler aus Österreich</h3>
 
